@@ -1,0 +1,17 @@
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\bin\Debug\disKlinigiOtomasyonu.exe.config
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\bin\Debug\disKlinigiOtomasyonu.exe
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\bin\Debug\disKlinigiOtomasyonu.pdb
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.anaSayfa.resources
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.Properties.Resources.resources
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.csproj.GenerateResource.cache
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlini.34B6D8D2.Up2Date
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.exe
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.pdb
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.Hasta.resources
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.Login.resources
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.Randevu.resources
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.Receteler.resources
+C:\Users\esat2\source\repos\disKlinigiOtomasyonu\obj\Debug\disKlinigiOtomasyonu.Tedavi.resources

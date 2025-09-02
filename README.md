@@ -40,6 +40,10 @@ Veritabanı tarafında ise **SQL Server** kullanılarak **ilişkisel veritabanı
 <img src="./img/tedavi.png" width="600"/>
 
 ### 💊 Reçete Yönetimi
-<img src="./img/reçete.png" width="600"/>
+<img src="./img/recete.png" width="600"/>
 
 ---
+
+## 🌐 İletişim
+🔗 [Kişisel Web Sitemi Ziyaret Edin](https://esatyucel.com)  
+📧 **esatyucelsoftware@gmail.com**
